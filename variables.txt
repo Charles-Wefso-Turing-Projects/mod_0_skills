@@ -1,0 +1,10 @@
+var food = 'chicken curry';
+var is_delicious = 'true';
+var food = 'chicken vindaloo';
+var num2 = 8
+var num7 = 12
+var quotient = num7 / num2;
+var songs = ["Hey Jude" , "Penny Lane" , "Yesterday"];
+songs.shift()
+var charNum = return food.length;
+console.log(charNum());
