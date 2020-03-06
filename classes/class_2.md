@@ -1,10 +1,14 @@
-##class:
+## Class:
 
-oven
+- `Oven`
 
-##attributes:
 
-isOn (boolean)
-temperature (float)
-model (string)
-contents: (array)  
+## Attributes:
+
+- `isOn` (boolean)
+
+- `temperature` (float)
+
+- `fuel` (string)
+
+- `contents` (array)  
